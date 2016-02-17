@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/jiaohongyang/AndroidStudioProjects/MiniFlickr/app/build/intermediates/res/merged/debug/menu/fragment_photo_gallery.xml",
+        "source": "/Users/jiaohongyang/AndroidStudioProjects/MiniFlickr/app/src/main/res/menu/fragment_photo_gallery.xml"
+    },
+    {
+        "merged": "/Users/jiaohongyang/AndroidStudioProjects/MiniFlickr/app/build/intermediates/res/merged/debug/menu/test.xml",
+        "source": "/Users/jiaohongyang/AndroidStudioProjects/MiniFlickr/app/src/main/res/menu/test.xml"
+    }
+]

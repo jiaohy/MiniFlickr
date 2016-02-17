@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/jiaohongyang/AndroidStudioProjects/MiniFlickr/app/build/intermediates/res/merged/debug/layout/fragment_photo_page.xml",
+        "source": "/Users/jiaohongyang/AndroidStudioProjects/MiniFlickr/app/src/main/res/layout/fragment_photo_page.xml"
+    },
+    {
+        "merged": "/Users/jiaohongyang/AndroidStudioProjects/MiniFlickr/app/build/intermediates/res/merged/debug/layout/fragment_photo_gallery.xml",
+        "source": "/Users/jiaohongyang/AndroidStudioProjects/MiniFlickr/app/src/main/res/layout/fragment_photo_gallery.xml"
+    },
+    {
+        "merged": "/Users/jiaohongyang/AndroidStudioProjects/MiniFlickr/app/build/intermediates/res/merged/debug/layout/gallery_item.xml",
+        "source": "/Users/jiaohongyang/AndroidStudioProjects/MiniFlickr/app/src/main/res/layout/gallery_item.xml"
+    },
+    {
+        "merged": "/Users/jiaohongyang/AndroidStudioProjects/MiniFlickr/app/build/intermediates/res/merged/debug/layout/activity_fragment.xml",
+        "source": "/Users/jiaohongyang/AndroidStudioProjects/MiniFlickr/app/src/main/res/layout/activity_fragment.xml"
+    }
+]
